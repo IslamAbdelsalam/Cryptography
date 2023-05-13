@@ -11,7 +11,7 @@
   * 2- to decode your message:
   *     Enter your message
   *     Enter the negative number of the Encoding shifting number
-  *
+  *     Author: Islam Abdelslam.
   */
 
 //message Limits
